@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936049864531",
+    "project_id": "e-tym-e2019",
+    "storage_bucket": "e-tym-e2019.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936049864531:android:8363f185ab2e364b6b3ba6",
+        "android_client_info": {
+          "package_name": "com.etym.e_tym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWkLfDDClwn0wu_1g4Elk5G5KuNbvHd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
